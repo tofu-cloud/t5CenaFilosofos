@@ -1,0 +1,150 @@
+Filósofo 2 está pensando
+Filósofo 4 está pensando
+Filósofo 1 está pensando
+Filósofo 3 está pensando
+Filósofo 0 está pensando
+Filósofo 3 tiene hambre
+Filósofo 3 toma tenedores 2 y 3
+Filósofo 3 está COMIENDO
+Filósofo 0 tiene hambre
+Filósofo 0 toma tenedores 4 y 0
+Filósofo 0 está COMIENDO
+Filósofo 1 tiene hambre
+Filósofo 2 tiene hambre
+Filósofo 4 tiene hambre
+Filósofo 3 deja los tenedores
+Filósofo 3 está PENSANDO
+Filósofo 2 toma tenedores 1 y 2
+Filósofo 2 está COMIENDO
+Filósofo 0 deja los tenedores
+Filósofo 0 está PENSANDO
+Filósofo 4 toma tenedores 3 y 4
+Filósofo 4 está COMIENDO
+Filósofo 0 está pensando
+Filósofo 3 está pensando
+Filósofo 4 deja los tenedores
+Filósofo 4 está PENSANDO
+Filósofo 2 deja los tenedores
+Filósofo 2 está PENSANDO
+Filósofo 1 toma tenedores 0 y 1
+Filósofo 1 está COMIENDO
+Filósofo 0 tiene hambre
+Filósofo 3 tiene hambre
+Filósofo 3 toma tenedores 2 y 3
+Filósofo 3 está COMIENDO
+Filósofo 4 está pensando
+Filósofo 2 está pensando
+Filósofo 4 tiene hambre
+Filósofo 3 deja los tenedores
+Filósofo 3 está PENSANDO
+Filósofo 4 toma tenedores 3 y 4
+Filósofo 4 está COMIENDO
+Filósofo 2 tiene hambre
+Filósofo 1 deja los tenedores
+Filósofo 1 está PENSANDO
+Filósofo 2 toma tenedores 1 y 2
+Filósofo 2 está COMIENDO
+Filósofo 3 está pensando
+Filósofo 1 está pensando
+Filósofo 4 deja los tenedores
+Filósofo 4 está PENSANDO
+Filósofo 0 toma tenedores 4 y 0
+Filósofo 0 está COMIENDO
+Filósofo 3 tiene hambre
+Filósofo 2 deja los tenedores
+Filósofo 2 está PENSANDO
+Filósofo 3 toma tenedores 2 y 3
+Filósofo 3 está COMIENDO
+Filósofo 1 tiene hambre
+Filósofo 4 está pensando
+Filósofo 2 está pensando
+Filósofo 0 deja los tenedores
+Filósofo 0 está PENSANDO
+Filósofo 1 toma tenedores 0 y 1
+Filósofo 1 está COMIENDO
+Filósofo 4 tiene hambre
+Filósofo 3 deja los tenedores
+Filósofo 3 está PENSANDO
+Filósofo 4 toma tenedores 3 y 4
+Filósofo 4 está COMIENDO
+Filósofo 2 tiene hambre
+Filósofo 0 está pensando
+Filósofo 3 está pensando
+Filósofo 1 deja los tenedores
+Filósofo 1 está PENSANDO
+Filósofo 2 toma tenedores 1 y 2
+Filósofo 2 está COMIENDO
+Filósofo 0 tiene hambre
+Filósofo 4 deja los tenedores
+Filósofo 4 está PENSANDO
+Filósofo 0 toma tenedores 4 y 0
+Filósofo 0 está COMIENDO
+Filósofo 3 tiene hambre
+Filósofo 1 está pensando
+Filósofo 4 está pensando
+Filósofo 1 tiene hambre
+Filósofo 2 deja los tenedores
+Filósofo 2 está PENSANDO
+Filósofo 3 toma tenedores 2 y 3
+Filósofo 3 está COMIENDO
+Filósofo 0 deja los tenedores
+Filósofo 0 está PENSANDO
+Filósofo 1 toma tenedores 0 y 1
+Filósofo 1 está COMIENDO
+Filósofo 4 tiene hambre
+Filósofo 2 está pensando
+Filósofo 0 está pensando
+Filósofo 1 deja los tenedores
+Filósofo 1 está PENSANDO
+Filósofo 3 deja los tenedores
+Filósofo 3 está PENSANDO
+Filósofo 4 toma tenedores 3 y 4
+Filósofo 4 está COMIENDO
+Filósofo 2 tiene hambre
+Filósofo 2 toma tenedores 1 y 2
+Filósofo 2 está COMIENDO
+Filósofo 0 tiene hambre
+Filósofo 1 está pensando
+Filósofo 3 está pensando
+Filósofo 2 deja los tenedores
+Filósofo 2 está PENSANDO
+Filósofo 1 tiene hambre
+Filósofo 1 toma tenedores 0 y 1
+Filósofo 1 está COMIENDO
+Filósofo 3 tiene hambre
+Filósofo 4 deja los tenedores
+Filósofo 4 está PENSANDO
+Filósofo 3 toma tenedores 2 y 3
+Filósofo 3 está COMIENDO
+Filósofo 2 está pensando
+Filósofo 4 está pensando
+Filósofo 2 tiene hambre
+Filósofo 1 deja los tenedores
+Filósofo 1 está PENSANDO
+Filósofo 0 toma tenedores 4 y 0
+Filósofo 0 está COMIENDO
+Filósofo 4 tiene hambre
+Filósofo 3 deja los tenedores
+Filósofo 3 está PENSANDO
+Filósofo 2 toma tenedores 1 y 2
+Filósofo 2 está COMIENDO
+Filósofo 1 está pensando
+Filósofo 0 deja los tenedores
+Filósofo 0 está PENSANDO
+Filósofo 4 toma tenedores 3 y 4
+Filósofo 4 está COMIENDO
+Filósofo 2 deja los tenedores
+Filósofo 2 está PENSANDO
+Filósofo 1 tiene hambre
+Filósofo 1 toma tenedores 0 y 1
+Filósofo 1 está COMIENDO
+Filósofo 0 está pensando
+Filósofo 0 tiene hambre
+Filósofo 4 deja los tenedores
+Filósofo 4 está PENSANDO
+Filósofo 1 deja los tenedores
+Filósofo 1 está PENSANDO
+Filósofo 0 toma tenedores 4 y 0
+Filósofo 0 está COMIENDO
+Filósofo 0 deja los tenedores
+Filósofo 0 está PENSANDO
